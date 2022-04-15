@@ -18,7 +18,12 @@
 
 ## How
 
-* [List of practices](how/list-of-practices.md)
+* [List of practices](how/list-of-practices/README.md)
+  * [5-Whys](how/list-of-practices/5-whys.md)
+
+## Who
+
+* [Our Contributors](who/our-contributors.md)
 
 ## Appendix
 
