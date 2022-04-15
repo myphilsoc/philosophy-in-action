@@ -23,7 +23,8 @@
 
 ## Who
 
-* [Our Contributors](who/our-contributors.md)
+* [Our Contributors](who/our-contributors/README.md)
+  * [Malaysian Philosophy Society](who/our-contributors/malaysian-philosophy-society.md)
 
 ## Appendix
 
