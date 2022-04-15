@@ -18,7 +18,7 @@
 
 ## How
 
-* [Page 1](how/page-1.md)
+* [List of practices](how/list-of-practices.md)
 
 ## Appendix
 
