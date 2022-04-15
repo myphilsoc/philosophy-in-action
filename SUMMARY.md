@@ -28,3 +28,4 @@
 ## Appendix
 
 * [Seeds of Thought](appendix/seeds-of-thought.md)
+* [License](appendix/license.md)
