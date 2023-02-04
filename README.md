@@ -8,7 +8,7 @@ coverY: 0
 
 Welcome to Philosophy in Action!
 
-This is an open-source guide on doing philosophy. By doing philosophy, we mean incorporating philosophical ideas and methods into our lives.
+This is an open-access guide on doing philosophy. By doing philosophy, we mean incorporating philosophical ideas and methods into our lives.
 
 Like all wikis, this will continue to be an evolving piece of work and never be finished. As stewards and contributors of this space, we will add new sections to this guide overtime as we come across new developments in the field of philosophical practice.
 
