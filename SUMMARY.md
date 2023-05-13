@@ -6,7 +6,13 @@
 
 ## 🌱 Shoots
 
-* [Critical Reasoning](shoots/critical-reasoning.md)
+* [Critical Reasoning](shoots/critical-reasoning/README.md)
+  * [Argumentation](shoots/critical-reasoning/argumentation.md)
+  * [Deduction](shoots/critical-reasoning/deduction.md)
+  * [Induction](shoots/critical-reasoning/induction.md)
+  * [Validity](shoots/critical-reasoning/validity.md)
+  * [Soundness](shoots/critical-reasoning/soundness.md)
+  * [Refutation](shoots/critical-reasoning/refutation.md)
 * [Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [Principles and Axioms](shoots/principles-and-axioms.md)
 * [Fallacies](shoots/fallacies.md)
@@ -25,8 +31,8 @@
 * [Personal](fruits/personal/README.md)
   * [On self-reflection](fruits/personal/on-self-reflection.md)
   * [Philosophical Health](fruits/personal/philosophical-health.md)
-  * [Journaling](fruits/personal/journaling/README.md)
-    * [5-Whys](fruits/personal/journaling/5-whys.md)
+  * [Journaling](fruits/personal/journaling.md)
+    * [5-Whys](shoots/5-whys.md)
   * [Skills Development](fruits/personal/skills-development/README.md)
     * [Metacognition](fruits/personal/skills-development/metacognition.md)
     * [Sensemaking](fruits/personal/skills-development/sensemaking.md)
