@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Start here](README.md)
+* [👋 Start here](README.md)
 
 ## What
 
