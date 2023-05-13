@@ -1,2 +1,0 @@
-# Seeds of Thought
-

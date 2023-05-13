@@ -1,4 +1,5 @@
 ---
+description: First time here?
 coverY: 0
 ---
 
@@ -14,7 +15,7 @@ Just like philosophy itself, this handbook isn't set in stone. It's more like a 
 
 ## Finding Your Way Around
 
-The Everyday Philosopher's Guide contains all you need to get started to start weaving philosophy into your life. We've packed it with all the tried-and-true tools and practices we've picked up on our own philosophical journeys. We've found them super helpful, and we think you might too, so we're sharing them here for everyone to use.
+The Everyday Philosopher's Guide contains all you need to  start weaving philosophy into your life. We've packed it with all the tried-and-true tools and practices we've picked up on our own philosophical journeys. We've found them super helpful, and we think you might too, so we're sharing them here for everyone to use.
 
 We've split the contents of this guide into three main sections:
 
@@ -29,7 +30,7 @@ Here, we look at the real-world benefits of philosophy. We'll show you how philo
 
 ## About
 
-If you’re interested in the people behind the creation of this wiki, do check out [who we are](who/our-contributors/).
+If you’re interested in the people behind the creation of this wiki, do check out [who we are](about/our-contributors/).
 
 We're also on the lookout for new **contributors, critics, and translators**. So, if you fancy joining us on this philosophical adventure, drop us a line at [hello@myphilsoc.com](mailto:hello@myphilsoc.com).
 
