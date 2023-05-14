@@ -50,6 +50,10 @@
   * [Philosophical Enquiry (PhiE)](fruits/relational/philosophical-enquiry-phie.md)
   * [Reason-based decision making](fruits/relational/reason-based-decision-making.md)
 * [🌏 Societal](fruits/societal/README.md)
+  * [Education](fruits/societal/education.md)
+  * [Healthcare](fruits/societal/healthcare.md)
+  * [Public Policy](fruits/societal/public-policy.md)
+  * [Gender](fruits/societal/gender.md)
   * [Religion](fruits/societal/religion.md)
 
 ## About
