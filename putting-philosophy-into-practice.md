@@ -1,4 +1,4 @@
-# Incorporating philosophy into practice
+# Putting philosophy into practice
 
 There is always something philosophical in every question, idea, concept or thought. Such things can bring insights and nuggets of wisdom. In other words, when philosophical methods are applied to different aspects of our lives, there is always something new to discover and learn.
 
@@ -12,7 +12,15 @@ We believe that incorporating philosophical ideas and methods into practice can 
 4. Enhanced creativity: Philosophical thinking can inspire individuals to think outside the box and to approach problems from novel and innovative perspectives.
 5. Improved communication: Philosophical inquiry can help individuals to better understand and articulate their own thoughts and ideas, as well as to engage in meaningful dialogue and debate with others.
 
-We explore these reasons further in the Why section of this guide.&#x20;
+We explore these reasons further in the 🍎 Fruits section of this guide.&#x20;
+
+{% content-ref url="fruits/personal/" %}
+[personal](fruits/personal/)
+{% endcontent-ref %}
+
+{% content-ref url="fruits/relational/" %}
+[relational](fruits/relational/)
+{% endcontent-ref %}
 
 ### What can we do?
 
@@ -23,6 +31,18 @@ Incorporating philosophical ideas and methods into practice involves synthesisin
 3. Interdisciplinary collaboration: Working with individuals from different fields, such as religion, politics, or economics, to bring diverse perspectives and ideas to bear on practical challenges.
 4. Experimental philosophy: Implementing philosophical ideas and theories in practical settings, observing and evaluating their effects, and refining them based on the results.
 
-This is of course not an exhaustive list. To explore this further, do check out the How section of this guide.
+This is of course not an exhaustive list. To explore this further, do check out the following collections:
+
+{% content-ref url="shoots/critical-reasoning/" %}
+[critical-reasoning](shoots/critical-reasoning/)
+{% endcontent-ref %}
+
+{% content-ref url="shoots/conceptual-distinctions.md" %}
+[conceptual-distinctions.md](shoots/conceptual-distinctions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fruits/societal/" %}
+[societal](fruits/societal/)
+{% endcontent-ref %}
 
 Ultimately, incorporating philosophical ideas and methods into practice requires a combination of intellectual rigour and practical wisdom, and a willingness to continuously learn and adapt. With regular practice, we believe they can bring a greater sense of purpose, meaning, and direction to individuals and organisations, and can help to create a more equitable, just, and sustainable world.\
