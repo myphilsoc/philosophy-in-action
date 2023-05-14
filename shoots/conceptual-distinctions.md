@@ -1,2 +1,2 @@
-# Conceptual Distinctions
+# ☯ Conceptual Distinctions
 

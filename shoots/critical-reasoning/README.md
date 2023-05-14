@@ -1,2 +1,2 @@
-# Critical Reasoning
+# 🤔 Critical Reasoning
 

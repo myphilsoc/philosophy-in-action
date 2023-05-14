@@ -1,2 +1,2 @@
-# Religious Traditions
+# 🛐 Religious Traditions
 

@@ -1,2 +1,2 @@
-# Philosophy and Society
+# 🌏 Societal
 

@@ -1,2 +1,2 @@
-# Philosophy and the Self
+# 🧍 Personal
 
