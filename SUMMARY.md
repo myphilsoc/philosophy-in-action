@@ -15,6 +15,7 @@
   * [Refutation](shoots/critical-reasoning/refutation.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
+  * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
   * [Golden Rule](shoots/principles-and-axioms/golden-rule.md)
 * [💫 Fallacies](shoots/fallacies.md)
 
