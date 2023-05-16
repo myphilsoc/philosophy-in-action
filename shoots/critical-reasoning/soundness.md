@@ -1,43 +1,45 @@
 # Soundness
 
-Validity is a concept that helps us determine whether an argument or a line of reasoning is logical and well-structured. In simple terms, an argument is valid if the conclusion follows logically from the premises, meaning that if the premises are true, the conclusion must be true as well.&#x20;
+Soundness is a concept that helps us determine whether an argument is not only logical and well-structured but also based on true premises. In simple terms, an argument is sound if it is valid (meaning the conclusion follows logically from the premises) and all the premises are true.&#x20;
 
 {% hint style="info" %}
-Validity is about the structure of the argument, not the actual truth of the premises or conclusion.
+When an argument is sound, it guarantees that the conclusion is also true.
 {% endhint %}
 
-Here's a simple example to illustrate validity:\
-Premise 1: All dogs are mammals. \
-Premise 2: Rover is a dog. \
-Conclusion: Rover is a mammal.
+Here's a simple example to illustrate soundness:\
+Premise 1: All humans are mortal. \
+Premise 2: Ben is a human being. \
+Conclusion: Ben is mortal.
 
-In everyday life, we use the concept of validity to evaluate the strength of arguments or reasoning, which helps us make informed decisions and better understand the world around us. \
+In this case, the argument is not only valid (the conclusion follows logically from the premises), but it is also sound because both premises are true, ensuring the truth of the conclusion.
+
+In everyday life, concept of soundness to assess the reliability of arguments and make informed decisions based on them. \
 Here are a few examples:
 
 <details>
 
-<summary>Debates and discussions</summary>
+<summary>Making decisions</summary>
 
-When engaging in a debate or listening to someone's argument, you assess the validity of their reasoning to determine if their conclusions are logically sound.
-
-</details>
-
-<details>
-
-<summary>Predicting traffic</summary>
-
-You notice that the traffic is usually heavy during rush hour. Based on this observation, you predict that there will be traffic during rush hour tomorrow and plan your commute accordingly.
+When you need to make a decision, you'll want to base it on sound arguments that have both logical structure and true premises (e.g. accurate facts) to ensure a reliable outcome.
 
 </details>
 
 <details>
 
-<summary>Social situations</summary>
+<summary>Detecting lies</summary>
 
-You've observed that when you smile at people, they often smile back. You start smiling at strangers, expecting them to smile back most of the time.
+Evaluating the soundness of arguments helps you to separate reliable information from false or misleading claims.
 
 </details>
 
-Keep in mind that induction relies on the observations and experiences we have. If our observations are limited or biased, our conclusions might not be accurate. Nevertheless, induction is useful in our everyday lives because it allows us to make educated guesses and form reasonable expectations based on the information we have.
+<details>
+
+<summary>Communicating effectively</summary>
+
+When presenting your own arguments or opinions, ensuring they are sound helps you to be more persuasive and convincing, as your reasoning will be based on true premises and logical structure.
+
+</details>
+
+In everyday life, understanding the concept of soundness helps us become more discerning thinkers and communicators. It allows us to evaluate the strength and reliability of arguments, make better decisions based on accurate information, and engage in more effective and persuasive communication.
 
 \
