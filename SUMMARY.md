@@ -29,6 +29,7 @@
 * [🛐 Religious Traditions](roots/religious-traditions/README.md)
   * [Baha'i Faith](roots/religious-traditions/bahai-faith.md)
   * [Buddhism](roots/religious-traditions/buddhism.md)
+  * [Judaism](roots/religious-traditions/judaism.md)
 * [🗺 Geographical Regions](roots/geographical-regions.md)
 
 ## 🍎 Fruits
