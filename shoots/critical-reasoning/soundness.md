@@ -13,7 +13,7 @@ Conclusion: Ben is mortal.
 
 In this case, the argument is not only valid (the conclusion follows logically from the premises), but it is also sound because both premises are true, ensuring the truth of the conclusion.
 
-In everyday life, concept of soundness to assess the reliability of arguments and make informed decisions based on them. \
+In everyday life, we use the concept of soundness to assess the reliability of arguments and make informed decisions based on them. \
 Here are a few examples:
 
 <details>
