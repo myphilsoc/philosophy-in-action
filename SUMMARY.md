@@ -13,6 +13,7 @@
   * [Validity](shoots/critical-reasoning/validity.md)
   * [Soundness](shoots/critical-reasoning/soundness.md)
   * [Refutation](shoots/critical-reasoning/refutation.md)
+  * [Definition](shoots/critical-reasoning/definition.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
   * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
