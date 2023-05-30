@@ -14,6 +14,7 @@
   * [Soundness](shoots/critical-reasoning/soundness.md)
   * [Refutation](shoots/critical-reasoning/refutation.md)
   * [Definition](shoots/critical-reasoning/definition.md)
+  * [Tautology](shoots/critical-reasoning/tautology.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
   * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
