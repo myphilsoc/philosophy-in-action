@@ -16,6 +16,7 @@
   * [Definition](shoots/critical-reasoning/definition.md)
   * [Tautology](shoots/critical-reasoning/tautology.md)
   * [Abduction](shoots/critical-reasoning/abduction.md)
+  * [Certainty](shoots/critical-reasoning/certainty.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
   * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
