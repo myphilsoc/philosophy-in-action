@@ -20,6 +20,7 @@
   * [Axiom](shoots/critical-reasoning/axiom.md)
   * [Fallacy](shoots/critical-reasoning/fallacy.md)
   * [Dialectics](shoots/critical-reasoning/dialectics.md)
+  * [Analogy](shoots/critical-reasoning/analogy.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
