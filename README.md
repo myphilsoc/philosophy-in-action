@@ -111,6 +111,10 @@ Looking for ways philosophy can be applied to various aspects of society? ⬇️
 
 ## About
 
+{% hint style="info" %}
+Curious to know what drives the work we do? Check out [our manifesto](about/manifesto-of-the-everyday-philosopher.md)!&#x20;
+{% endhint %}
+
 If you’re interested in the people behind the creation of this wiki, do check out [who we are](about/our-contributors/).
 
 We're also on the lookout for new **contributors, critics, and translators**. So, if you fancy joining us on this philosophical adventure, drop us a line at [hello@myphilsoc.com](mailto:hello@myphilsoc.com).

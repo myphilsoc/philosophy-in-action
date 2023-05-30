@@ -24,6 +24,10 @@ We explore these reasons further in the 🍎 Fruits section of this guide.&#x20;
 
 ### What can we do?
 
+{% hint style="info" %}
+Do check out the [Manifesto of the Everyday Philosopher](about/manifesto-of-the-everyday-philosopher.md) which serves as a guiding compass for incorporating philosophy into your everyday life.
+{% endhint %}
+
 Incorporating philosophical ideas and methods into practice involves synthesising abstract concepts with real-world problems and situations. This can be done through several approaches, such as:
 
 1. Reflection: Regularly taking time to reflect on the values, principles, and beliefs that guide one's actions and decision making, and making sure they align with philosophical ideas.
