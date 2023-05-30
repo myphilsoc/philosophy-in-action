@@ -70,6 +70,7 @@
 
 ## About
 
+* [📜 Manifesto of the Everyday Philosopher](about/manifesto-of-the-everyday-philosopher.md)
 * [Our Contributors](about/our-contributors/README.md)
   * [Malaysian Philosophy Society](about/our-contributors/malaysian-philosophy-society.md)
 
