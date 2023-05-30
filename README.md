@@ -57,8 +57,8 @@ Looking for **principles that serve as the foundation for thinking** like the la
 
 Looking for cognitive biases that can trip us up in our reasoning or decision-making processes? ⬇️
 
-{% content-ref url="shoots/fallacies.md" %}
-[fallacies.md](shoots/fallacies.md)
+{% content-ref url="shoots/fallacies/" %}
+[fallacies](shoots/fallacies/)
 {% endcontent-ref %}
 
 ### ⚓️ **Roots**
