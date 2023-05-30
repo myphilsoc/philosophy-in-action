@@ -15,6 +15,10 @@ Just like philosophy itself, this handbook isn't set in stone. It's more like a 
 
 ## Finding Your Way Around
 
+{% hint style="info" %}
+If you're looking for something specific, use the search function at the top right corner of your screen. It's pretty solid. 😉
+{% endhint %}
+
 The Everyday Philosopher's Guide contains all you need to start weaving philosophy into your life. We've packed it with all the tried-and-true tools and practices we've picked up on our own philosophical journeys. We've found them super helpful, and we think you might too, so we're sharing them here for everyone to use.
 
 {% hint style="warning" %}
