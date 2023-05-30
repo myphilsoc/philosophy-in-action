@@ -17,12 +17,13 @@
   * [Tautology](shoots/critical-reasoning/tautology.md)
   * [Abduction](shoots/critical-reasoning/abduction.md)
   * [Certainty](shoots/critical-reasoning/certainty.md)
+  * [Axiom](shoots/critical-reasoning/axiom.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
+* [💫 Fallacies](shoots/fallacies/README.md)
+  * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
   * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
   * [Golden Rule](shoots/principles-and-axioms/golden-rule.md)
-* [💫 Fallacies](shoots/fallacies/README.md)
-  * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
 
 ## 🌳 Roots
 
