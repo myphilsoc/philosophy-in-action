@@ -18,6 +18,7 @@
   * [Abduction](shoots/critical-reasoning/abduction.md)
   * [Certainty](shoots/critical-reasoning/certainty.md)
   * [Axiom](shoots/critical-reasoning/axiom.md)
+  * [Fallacy](shoots/critical-reasoning/fallacy.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
