@@ -42,12 +42,4 @@ To deal with anomalies effectively in everyday life, it's important to::
 * Question and investigate anomalies to understand their causes and implications, rather than simply dismissing them as irrelevant or unimportant.
 * Recognise that anomalies can sometimes be valuable sources of new information, insights, or ideas, even if they challenge our current understanding or beliefs.
 
-By paying attention to anomalies in our everyday lives, we can learn more about the world around us, find creative solutions to problems, and make better decisions by considering unexpected factors or outcomes.
-
-\
-
-
-\
-
-
-\
+By paying attention to anomalies in our everyday lives, we can learn more about the world around us, find creative solutions to problems, and make better decisions by considering unexpected factors or outcomes.\
