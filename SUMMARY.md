@@ -24,6 +24,7 @@
   * [Anomaly](shoots/critical-reasoning/anomaly.md)
   * [Reduction](shoots/critical-reasoning/reduction.md)
   * [Thought Experiment](shoots/critical-reasoning/thought-experiment.md)
+  * [Conditional](shoots/critical-reasoning/conditional.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚗ Thought Experiments](shoots/thought-experiments.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
