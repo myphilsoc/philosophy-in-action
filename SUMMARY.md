@@ -30,6 +30,7 @@
 * [⚗ Thought Experiments](shoots/thought-experiments.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
+  * [Circularity](shoots/fallacies/circularity.md)
 * [⚖ Principles and Axioms](shoots/principles-and-axioms/README.md)
   * [Principle of Charity](shoots/principles-and-axioms/principle-of-charity.md)
   * [Golden Rule](shoots/principles-and-axioms/golden-rule.md)
