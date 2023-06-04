@@ -1,3 +1,9 @@
+---
+cover: >-
+  ../.gitbook/assets/WanshiRuyi_vector_minimalistic_accessible_relatable_a_contempor_cb438a51-0356-405f-8fd2-e86cce842ca0.png
+coverY: -108
+---
+
 # 📜 Manifesto of the Everyday Philosopher
 
 {% hint style="info" %}
