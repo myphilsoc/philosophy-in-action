@@ -28,6 +28,7 @@
   * [Ambiguity](shoots/critical-reasoning/ambiguity.md)
   * [Counterexample](shoots/critical-reasoning/counterexample.md)
   * [Criteria](shoots/critical-reasoning/criteria.md)
+  * [Doxa](shoots/critical-reasoning/doxa.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions.md)
 * [⚗ Thought Experiments](shoots/thought-experiments.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
