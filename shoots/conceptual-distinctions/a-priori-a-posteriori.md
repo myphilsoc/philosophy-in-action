@@ -2,7 +2,7 @@
 
 "A priori" is a Latin term that literally translates to "from the earlier." In philosophy, it's used to describe knowledge or justification that is independent of experience. This means that you can know or justify it without needing to observe the world or gather empirical data. Math is a classic example of a priori knowledge. For instance, we know that 2 + 2 = 4 not because we've seen two pairs of objects come together to form four objects over and over again, but because we understand the concepts and rules of arithmetic.
 
-On the other hand, "a posteriori" means "from the later" in Latin. This refers to knowledge or justification that is dependent on experience or empirical evidence. Most of our everyday knowledge is a posteriori. For example, if you know that your dog is in the backyard, it's probably because you've seen or heard them there..
+On the other hand, "a posteriori" means "from the later" in Latin. This refers to knowledge or justification that is dependent on experience or empirical evidence. Most of our everyday knowledge is a posteriori. For example, if you know that your dog is in the backyard, it's probably because you've seen or heard them there.
 
 Here's are some ways we apply this distinction in everyday life:
 
@@ -47,10 +47,6 @@ Meanwhile, a posteriori knowledge would involve learning the meaning of a word f
 </details>
 
 Understanding the difference between a priori and a posteriori knowledge can be a powerful tool, but using this distinction effectively requires careful thought and consideration.&#x20;
-
-{% hint style="warning" %}
-While the relative perspective is important for considering various viewpoints, it's also critical not to fall into the trap of **extreme relativism**, where everything is viewed as subjective. This could lead to a dismissive attitude towards universally accepted facts or a reluctance to judge harmful behaviours. Maintaining a balance between acknowledging the validity of different perspectives while upholding universal moral or ethical principles is key.
-{% endhint %}
 
 Here are some tips and considerations:
 

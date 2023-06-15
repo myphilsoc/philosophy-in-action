@@ -32,6 +32,7 @@
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions/README.md)
   * [Absolute/Relative](shoots/conceptual-distinctions/absolute-relative.md)
   * [A priori/A posteriori](shoots/conceptual-distinctions/a-priori-a-posteriori.md)
+  * [Analytic / Synthetic](shoots/conceptual-distinctions/analytic-synthetic.md)
 * [⚗ Thought Experiments](shoots/thought-experiments.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
