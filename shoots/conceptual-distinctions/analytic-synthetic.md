@@ -1,4 +1,4 @@
-# Analytic / Synthetic
+# Analytic/Synthetic
 
 The distinction between analytic and synthetic is a central concept in philosophy, especially in understanding the nature of knowledge and belief.
 
