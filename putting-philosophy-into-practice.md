@@ -41,8 +41,8 @@ This is of course not an exhaustive list. To explore this further, do check out 
 [critical-reasoning](shoots/critical-reasoning/)
 {% endcontent-ref %}
 
-{% content-ref url="shoots/conceptual-distinctions.md" %}
-[conceptual-distinctions.md](shoots/conceptual-distinctions.md)
+{% content-ref url="shoots/conceptual-distinctions/" %}
+[conceptual-distinctions](shoots/conceptual-distinctions/)
 {% endcontent-ref %}
 
 {% content-ref url="fruits/societal/" %}

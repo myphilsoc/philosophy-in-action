@@ -49,8 +49,8 @@ Looking for methods or processes to **make sense of information, build arguments
 
 Looking for tools that can **reveal multiple perspectives and promote a nuanced understanding of issues?** ⬇️
 
-{% content-ref url="shoots/conceptual-distinctions.md" %}
-[conceptual-distinctions.md](shoots/conceptual-distinctions.md)
+{% content-ref url="shoots/conceptual-distinctions/" %}
+[conceptual-distinctions](shoots/conceptual-distinctions/)
 {% endcontent-ref %}
 
 Looking for **principles that serve as the foundation for thinking** like the law of non-contradiction, Occam's razor?  ⬇️
