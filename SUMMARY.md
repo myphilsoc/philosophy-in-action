@@ -35,6 +35,7 @@
   * [Analytic/Synthetic](shoots/conceptual-distinctions/analytic-synthetic.md)
   * [de re/de dicto](shoots/conceptual-distinctions/de-re-de-dicto.md)
   * [Cause/Reason](shoots/conceptual-distinctions/cause-reason.md)
+  * [Categorical/Modal](shoots/conceptual-distinctions/categorical-modal.md)
 * [⚗ Thought Experiments](shoots/thought-experiments.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)

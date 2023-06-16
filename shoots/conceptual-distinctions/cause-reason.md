@@ -6,7 +6,7 @@ A "cause" typically refers to a natural, physical, or mechanical event that brin
 
 A "reason," on the other hand, is generally related to human actions and decisions. It involves consciousness and intentionality. When we speak of reasons, we are typically referring to the motivations or rationalisations behind a person's actions. For example, if you decided to study for an exam, the reason might be to get a good grade, to learn, or to maintain your GPA.
 
-Here's are some ways how understanding this distinction can impact various aspects of our daily lives:
+Here are some ways how understanding this distinction can impact various aspects of our daily lives:
 
 <details>
 

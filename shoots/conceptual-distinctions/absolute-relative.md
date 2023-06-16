@@ -2,7 +2,7 @@
 
 Absolute and Relative are fundamental philosophical concepts that we encounter in numerous contexts, from ethics and morality to the sciences and everyday decision-making. Simply put, an absolute conception refers to something that is independent of anything else and remains unchanging regardless of perspective or context. A relative conception, on the other hand, describes something that changes based on perspective, comparison, or context. It is relational and dependent on something else for its definition.
 
-Here's are some ways we apply this distinction in everyday life:
+Here are some ways we apply this distinction in everyday life:
 
 <details>
 

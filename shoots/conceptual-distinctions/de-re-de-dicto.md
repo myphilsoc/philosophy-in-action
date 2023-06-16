@@ -6,7 +6,7 @@ De re (pronounced "duh-ray") translates to "about the thing" and refers to state
 
 On the other hand, "de dicto" translates to "about what is said" and refers to statements about the content of a proposition or belief. For example, if I say, "I believe that all cars are blue," I'm making a de dicto statement about a belief or proposition, not about a specific object in the world.
 
-Here's are some ways we apply this distinction in everyday life:
+Here are some ways we apply this distinction in everyday life:
 
 <details>
 

@@ -6,7 +6,7 @@ Analytic statements are ones where the truth is contained within the statement i
 
 On the other hand, synthetic statements are those where the truth isn't determined solely by the definitions of the words in the statement. These statements require some kind of experience or evidence beyond the statement itself to verify their truth. For instance, the statement "some bachelors are unhappy" is synthetic. You can't know whether it's true or false just by understanding the words; you would need to conduct some sort of survey or study to find out.
 
-Here's are some ways we apply this distinction in everyday life:
+Here are some ways we apply this distinction in everyday life:
 
 <details>
 

@@ -4,7 +4,7 @@
 
 On the other hand, "a posteriori" means "from the later" in Latin. This refers to knowledge or justification that is dependent on experience or empirical evidence. Most of our everyday knowledge is a posteriori. For example, if you know that your dog is in the backyard, it's probably because you've seen or heard them there.
 
-Here's are some ways we apply this distinction in everyday life:
+Here are some ways we apply this distinction in everyday life:
 
 <details>
 
