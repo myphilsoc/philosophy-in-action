@@ -48,4 +48,4 @@ To apply reduction effectively in everyday life, it's important to::
 
 
 
-To dive deeper into commonly-used thought experiments in everyday life, check out [Thought Experiments](../thought-experiments.md).
+To dive deeper into commonly-used thought experiments in everyday life, check out [Thought Experiments](../thought-experiments/).
