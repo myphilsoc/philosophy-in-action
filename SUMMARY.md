@@ -39,6 +39,7 @@
   * [Sense/Reference](shoots/conceptual-distinctions/sense-reference.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
+  * [The Chinese Room](shoots/thought-experiments/the-chinese-room.md)
 * [💫 Fallacies](shoots/fallacies/README.md)
   * [Confirmation bias](shoots/fallacies/confirmation-bias.md)
   * [Circularity](shoots/fallacies/circularity.md)
