@@ -4,7 +4,7 @@ The Chinese Room is a thought experiment devised by John Searle, an American phi
 
 ### Description
 
-imagine a room containing a non-Chinese-speaking person, a large set of Chinese symbols, and a book of instructions in English. This person is given a sheet of paper with Chinese characters (a script) and told to respond to it using the symbols and the instruction book, even though they don't understand Chinese. From the outside, the room appears to understand and respond intelligently to Chinese scripts, because the responses are accurate and coherent.
+Imagine a room containing a non-Chinese-speaking person, a large set of Chinese symbols, and a book of instructions in English. This person is given a sheet of paper with Chinese characters (a script) and told to respond to it using the symbols and the instruction book, even though they don't understand Chinese. From the outside, the room appears to understand and respond intelligently to Chinese scripts, because the responses are accurate and coherent.
 
 However, the person inside the room doesn't understand Chinese; they're merely manipulating symbols based on instructions. Searle uses this setup to argue that, similarly, a computer manipulating symbols (i.e., processing information) does not understand or have a mind, regardless of how human-like its responses seem. It challenges the claim that a properly programmed computer can understand, think, and have a mind.
 
