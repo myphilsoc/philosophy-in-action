@@ -1,8 +1,12 @@
 # Counterexample
 
+### What is a counterexample?
+
 Counterexample refers to a specific example that disproves a general claim or argument. In other words, it is an instance that goes against a rule or pattern, demonstrating that the claim or argument is not universally true. Counterexamples are often used in philosophy, mathematics, and other fields to test the validity of theories or ideas, helping us refine our understanding and develop more accurate beliefs.
 
 For instance, a counterexample to the claim "all birds can fly" would be a penguin, as penguins are birds that cannot fly. This counterexample shows that the initial claim is not universally true, indicating that we should reconsider or revise it.
+
+### How to apply counterexamples in everyday life
 
 Here's are some ways counterexamples are used in everyday life:
 
@@ -29,6 +33,8 @@ Considering counterexamples can aid in decision-making by revealing potential ex
 Encountering counterexamples in our own thoughts or the arguments of others can help us develop our critical thinking skills. By recognising and examining counterexamples, we can question the validity of claims and improve our understanding of complex ideas and concepts.
 
 </details>
+
+### Key considerations and takeaways
 
 To use counterexamples effectively in everyday life, it's important to:
 

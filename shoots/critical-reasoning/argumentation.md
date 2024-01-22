@@ -1,6 +1,10 @@
 # Argumentation
 
+### What is argumentation?
+
 Argumentation is the process of presenting and discussing reasons, evidence, and ideas to support or oppose a particular claim or viewpoint. It involves constructing logical and coherent arguments, as well as evaluating and responding to the arguments of others. Argumentation is a key aspect of critical thinking, communication, and problem-solving.
+
+### How to apply argumentation in everyday life
 
 In everyday life, we use argumentation when we discuss or debate various topics with friends, family, or colleagues, such as:
 
@@ -43,6 +47,8 @@ In conversations with others, argumentation allows us to present our opinions an
 Argumentation can be an effective tool for resolving conflicts or disagreements by providing a structured way to discuss and evaluate different perspectives, ultimately leading to a resolution or compromise.
 
 </details>
+
+### Key considerations and takeaways
 
 To use argumentation effectively in everyday life, it's important to:
 

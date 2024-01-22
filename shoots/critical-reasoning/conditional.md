@@ -1,8 +1,12 @@
 # Conditional
 
+### What are conditionals?
+
 Conditionals are statements that express a relationship between two events or situations, where one event or situation depends on the other. They often take the form "if A, then B," which means that if A happens, B will happen as well. Conditionals help us understand cause-and-effect relationships and make predictions about the outcomes of our actions or choices.
 
-Here's are some ways conditionals are used in everyday life:
+### How to apply conditionals in everyday life
+
+Here are some ways conditionals are used in everyday life:
 
 <details>
 
@@ -37,6 +41,8 @@ Using conditionals in our conversations or arguments can make our points clearer
 For example, using the conditional "If we reduce pollution, then our environment will be healthier," as a starting point can help convince others of the importance of environmental conservation.
 
 </details>
+
+### Key considerations and takeaways
 
 {% hint style="warning" %}
 Not all conditionals guarantee a definite outcome, as there can be multiple factors influencing the events or situations in question.

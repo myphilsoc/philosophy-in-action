@@ -1,6 +1,10 @@
 # Anomaly
 
+### What is anomaly?
+
 An anomaly is something that stands out or doesn't fit the usual pattern, rules, or expectations. It's like finding something unusual or unexpected that doesn't match what we normally see or experience.
+
+### How anomalies appear in everyday life
 
 Here's are some ways anomalies affect us in everyday life:
 
@@ -35,6 +39,8 @@ Being aware of anomalies can help us make more informed decisions by considering
 Anomalies can inspire new ideas or solutions by challenging conventional thinking and encouraging us to look for alternative explanations or approaches.
 
 </details>
+
+### Key considerations and takeaways
 
 To deal with anomalies effectively in everyday life, it's important to::
 

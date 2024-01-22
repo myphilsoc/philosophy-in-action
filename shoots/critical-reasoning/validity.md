@@ -1,5 +1,7 @@
 # Validity
 
+### What is validity?
+
 Validity is a concept that helps us determine whether an argument or a line of reasoning is logical and well-structured. In simple terms, an argument is valid if the conclusion follows logically from the premises, meaning that if the premises are true, the conclusion must be true as well.&#x20;
 
 {% hint style="info" %}
@@ -10,6 +12,8 @@ Here's a simple example to illustrate validity:\
 Premise 1: All dogs are mammals. \
 Premise 2: Rover is a dog. \
 Conclusion: Rover is a mammal.
+
+### How to apply validity in everyday life
 
 In everyday life, we use the concept of validity to evaluate the strength of arguments or reasoning, which helps us make informed decisions and better understand the world around us. \
 Here are a few examples:
@@ -39,6 +43,8 @@ For instance, let's say you're deciding on a new home. You consider various fact
 Developing strong critical thinking skills involves being able to recognise valid arguments and distinguish them from those that are flawed or poorly structured.
 
 </details>
+
+### Key considerations and takeaways
 
 {% hint style="warning" %}
 Be cautious when accepting the conclusion of an argument based solely on its validity. It's not just about whether the idea makes sense, it's also about whether the premises are true. Like if someone says: \

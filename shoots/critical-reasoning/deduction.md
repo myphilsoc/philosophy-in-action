@@ -1,11 +1,15 @@
 # Deduction
 
+### What is deduction?
+
 Deduction is a way of thinking that helps us reach conclusions based on given information or premises. It's like a puzzle, where you put the pieces together to form a complete picture. In deductive reasoning, if the premises are true, then the conclusion must be true as well. If the premises are incorrect or incomplete, the conclusions may not be accurate.
 
 Here's a simple example to illustrate deduction:\
 Premise 1: All humans need water to survive.\
 Premise 2: John is a human.\
 Conclusion: John needs water to survive.
+
+### How to apply deduction in everyday life
 
 In everyday life, we use deduction to make decisions, solve problems, and understand the world around us. Here are a few examples:
 

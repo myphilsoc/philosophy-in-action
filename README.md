@@ -93,20 +93,20 @@ Here, we look at the real-world benefits of philosophy. We'll show you how philo
 
 Looking for personal development? ⬇️
 
-{% content-ref url="fruits/personal/" %}
-[personal](fruits/personal/)
+{% content-ref url="fruits/personal-implications/" %}
+[personal-implications](fruits/personal-implications/)
 {% endcontent-ref %}
 
 Looking for tools to improve relationships? ⬇️
 
-{% content-ref url="fruits/relational/" %}
-[relational](fruits/relational/)
+{% content-ref url="fruits/relational-implications/" %}
+[relational-implications](fruits/relational-implications/)
 {% endcontent-ref %}
 
 Looking for ways philosophy can be applied to various aspects of society? ⬇️
 
-{% content-ref url="fruits/societal/" %}
-[societal](fruits/societal/)
+{% content-ref url="fruits/societal-implications/" %}
+[societal-implications](fruits/societal-implications/)
 {% endcontent-ref %}
 
 ## About

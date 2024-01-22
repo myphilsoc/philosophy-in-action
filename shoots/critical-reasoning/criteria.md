@@ -1,6 +1,10 @@
 # Criteria
 
+### What is criteria?
+
 Criteria are standards or guidelines that help us evaluate options, make decisions, and judge the quality or success of something. In other words, criteria are the factors we consider when determining whether something meets our expectations or goals.&#x20;
+
+### Applying criteria in everyday life
 
 Criteria can be used in various contexts, such as making choices, solving problems, or assessing the validity of ideas and arguments. For example, when choosing a new laptop, you might consider criteria like price, performance, battery life, and design to determine which option best suits your needs.
 
@@ -32,6 +36,8 @@ Criteria can help us assess the strength of ideas and arguments, enabling us to 
 
 </details>
 
+### Key considerations and takeaways
+
 To use criteria effectively in everyday life, it's important to:
 
 * Identify relevant criteria for a given situation or decision, considering factors that align with our goals, values, or the context at hand.
@@ -39,4 +45,4 @@ To use criteria effectively in everyday life, it's important to:
 *   Be open to reevaluating our criteria if new information or perspectives come to light, adjusting our decision-making process accordingly.
 
     \
-    Setting criteria help us evaluate options, make decisions, and judge the quality or success of something. TBy identifying relevant criteria and using them to guide our choices and evaluations, we can make better-informed decisions, foster clearer conversations, and improve our critical thinking skills.
+    Setting criteria help us evaluate options, make decisions, and judge the quality or success of something. By identifying relevant criteria and using them to guide our choices and evaluations, we can make better-informed decisions, foster clearer conversations, and improve our critical thinking skills.

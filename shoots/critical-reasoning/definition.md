@@ -1,6 +1,10 @@
 # Definition
 
+### What is definition?
+
 A definition is a clear and concise explanation of the meaning of a word, term, or concept. Definitions help us understand and communicate ideas by providing a common reference point for what a particular word or phrase represents.
+
+### How definitions are used in everyday life
 
 Here are a few examples:
 
@@ -35,6 +39,8 @@ In problem-solving situations, agreeing on the definition of key terms or concep
 Understanding and analyzing definitions helps us develop critical thinking skills, as it requires us to examine the meaning and implications of words or concepts, and to distinguish between different ideas and perspectives.
 
 </details>
+
+### Key considerations when using definitions
 
 To use definitions effectively in everyday life, it's important to:
 

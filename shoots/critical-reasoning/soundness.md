@@ -1,5 +1,7 @@
 # Soundness
 
+### What is soundness?
+
 Soundness is a concept that helps us determine whether an argument is not only logical and well-structured but also based on true premises. In simple terms, an argument is sound if it is valid (meaning the conclusion follows logically from the premises) and all the premises are true.&#x20;
 
 {% hint style="info" %}
@@ -12,6 +14,8 @@ Premise 2: Ben is a human being. \
 Conclusion: Ben is mortal.
 
 In this case, the argument is not only valid (the conclusion follows logically from the premises), but it is also sound because both premises are true, ensuring the truth of the conclusion.
+
+### How to apply soundness in everyday life?
 
 In everyday life, we use the concept of soundness to assess the reliability of arguments and make informed decisions based on them. \
 Here are a few examples:

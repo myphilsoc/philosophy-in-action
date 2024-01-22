@@ -1,6 +1,10 @@
 # Ambiguity
 
+### What is ambiguity?
+
 Ambiguity is a quality of language, situations, or ideas that have more than one possible interpretation or meaning. It can lead to confusion or misunderstandings, but it can also promote deeper thinking, creativity, and a nuanced understanding of the world.
+
+### How ambiguity appears in everyday life
 
 Here's are some ways ambiguity affects us in everyday life:
 
@@ -37,6 +41,8 @@ Engaging with ambiguous ideas or situations can lead to personal growth by promp
 Ambiguity can be a powerful tool in art, literature, and other creative pursuits, as it allows artists to explore complex themes and evoke various emotions, interpretations, or reactions from their audience.
 
 </details>
+
+### Key considerations and takeaways
 
 To deal with ambiguity effectively in everyday life, it's important to:
 

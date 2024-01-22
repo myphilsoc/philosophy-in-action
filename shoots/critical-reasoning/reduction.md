@@ -1,6 +1,10 @@
 # Reduction
 
+### What is reduction?
+
 Reduction, in critical reasoning, is a way of simplifying complex ideas or problems by breaking them down into smaller, more manageable parts. It's like taking a big puzzle and focusing on solving one piece at a time, making it easier to understand and handle.
+
+### How to apply reduction in everyday life
 
 Here's are some ways reduction are used in everyday life:
 
@@ -36,6 +40,8 @@ Anomalies can inspire new ideas or solutions by challenging conventional thinkin
 
 </details>
 
+### Key considerations and takeaways
+
 {% hint style="warning" %}
 The process of reduction can cause issues if done improperly. It's a bit like taking a gourmet meal and trying to describe it just as "food". While technically true, it misses out on so many details like the flavours, the texture, the presentation, and so on.&#x20;
 
@@ -48,8 +54,6 @@ To apply reduction effectively in everyday life, it's important to::
 
 * Be systematic and thorough when breaking down complex ideas or problems into smaller parts, ensuring that each aspect is understood and addressed.
 * Recognise the limitations of reduction, as oversimplifying complex issues can sometimes lead to misunderstandings or misinterpretations.
-*   Combine reduction with other critical reasoning tools, such as synthesis or [dialectics](dialectics.md), to develop a more comprehensive understanding of philosophical ideas or problems.
-
-
+* Combine reduction with other critical reasoning tools, such as synthesis or [dialectics](dialectics.md), to develop a more comprehensive understanding of philosophical ideas or problems.
 
 By using reduction in everyday life, we can learn and understand more effectively, solve problems creatively, make better decisions, and engage in meaningful self-reflection and personal growth.

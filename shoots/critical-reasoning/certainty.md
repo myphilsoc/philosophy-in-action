@@ -1,6 +1,10 @@
 # Certainty
 
+### What is certainty?
+
 Certainty is the feeling or state of being completely sure or confident about something, without any doubts or reservations. It represents a high level of conviction or belief in the truth of a particular idea, fact, or outcome.
+
+### How certainty appears is everyday life
 
 Here are a few examples:
 
@@ -43,6 +47,8 @@ Feeling certain about the information or advice we receive from others can incre
 In some cases, certainty can help reduce stress and anxiety by eliminating doubts or uncertainties that may cause worry or indecision.
 
 </details>
+
+### Key considerations and takeaways
 
 {% hint style="warning" %}
 Certainty can also have negative consequences, particularly if it leads to overconfidence or closed-mindedness. Being excessively certain about our beliefs or opinions can prevent us from considering alternative viewpoints, questioning our assumptions, or adapting to new information. (See [_confirmation bias_](../fallacies/confirmation-bias.md)_)_

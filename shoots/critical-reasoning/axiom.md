@@ -1,6 +1,10 @@
 # Axiom
 
+### What are axioms?
+
 Axioms are statements or principles that are accepted as being true without the need for proof or evidence. Axioms are often self-evident, fundamental ideas that serve as the basis for building more complex theories, arguments, or systems of thought. They are commonly used everywhere; from mathematics to making life decisions.
+
+### How we apply axioms in everyday life
 
 Here's a few of the many ways axioms are used:
 
@@ -35,6 +39,8 @@ Axioms break down complex ideas into simpler, more manageable components. By acc
 Axioms can serve as guiding principles in our lives, shaping our beliefs, values, and decision-making processes. For example, the golden rule, "treat others as you would like to be treated," is an ethical axiom that many people follow to navigate social interactions.
 
 </details>
+
+### Explore further
 
 {% hint style="warning" %}
 While axioms are generally accepted as true, it's important to recognise that they can sometimes be challenged or revised as new information or perspectives emerge.

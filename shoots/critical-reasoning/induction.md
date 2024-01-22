@@ -1,11 +1,15 @@
 # Induction
 
+### What is induction?
+
 Induction is a way of thinking that helps us make general conclusions or predictions based on specific observations or experiences. It's like looking at a few pieces of a puzzle and trying to guess what the whole picture might be. In inductive reasoning, the conclusions we reach might be likely or probable, but they're not guaranteed to be true.
 
 Here's a simple example to illustrate induction:\
 Observation 1: The sun rises in the east every day.\
 Observation 2: The sun has risen in the east for as long as you can remember.\
 Conclusion: The sun will likely rise in the east tomorrow.
+
+### How to apply induction in everyday life
 
 In everyday life, we use induction to make predictions, form beliefs, and learn from our experiences. Here are a few examples:
 

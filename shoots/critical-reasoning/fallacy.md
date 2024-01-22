@@ -1,6 +1,10 @@
 # Fallacy
 
+### What is a fallacy?
+
 A fallacy is a mistake or error in reasoning that makes an argument weak or invalid. Fallacies often seem convincing on the surface, but they are based on flawed logic or misinformation. They can be intentional, used to manipulate people's opinions or beliefs, or unintentional, resulting from a misunderstanding or lack of knowledge.
+
+### How fallacies appear in everyday life
 
 Here's are some ways fallacies can affect us:
 
@@ -31,6 +35,8 @@ Person B replies, "Well, you drive a car that uses gas, so your argument isn't v
 In this example, Person B is committing the ad hominem fallacy by attacking Person A's character or action, instead of addressing the actual argument about climate change. This fallacy hinders effective communication because it shifts the discussion away from the central issue, making it difficult for the participants to understand each other's points of view on climate change and have a constructive discussion on potential solutions.
 
 </details>
+
+### Key considerations
 
 These are some ways we can minimize the impact of fallacies in our lives:
 

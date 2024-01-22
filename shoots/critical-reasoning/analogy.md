@@ -1,6 +1,10 @@
 # Analogy
 
+### What is analogy?
+
 An analogy is a way of explaining or understanding something by comparing it to something else that is more familiar or easier to grasp. It's like saying that one thing is similar to another thing in some way, which helps us make sense of new or complex ideas by relating them to things we already know.
+
+### How to apply analogies in everyday life
 
 Here's are some ways we use analogies in everyday life:
 
@@ -35,6 +39,8 @@ Analogies can help us find creative solutions to problems by looking for similar
 Analogies can be used to make persuasive arguments by showing how an idea or solution has worked in a similar context or by drawing parallels between different situations.
 
 </details>
+
+### Key considerations and takeaways
 
 {% hint style="warning" %}
 Sometimes, analogies can can be misleading by oversimplifying things. It's important to recognise their limitations and not rely on them exclusively for understanding complex ideas or making decisions.

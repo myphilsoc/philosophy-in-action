@@ -1,6 +1,10 @@
 # Tautology
 
+### What is tautology?
+
 A tautology is when you say something that is always true, no matter what. It is usually because the words repeat the same idea or because it's just true by itself. Tautologies can sometimes be confusing because they don't give us any new information. Common examples are often repetitive or redundant expressions like “it is what it is.”
+
+### How tautologies appear in everyday life&#x20;
 
 Here are a few examples:
 
@@ -27,6 +31,8 @@ In the context of logic, tautologies can serve as a foundation for constructing 
 Tautologies are sometimes used in rhetoric or persuasive techniques, as they can create a sense of certainty or emphasis. However, this can also be misleading, as the repetition or redundancy might give the illusion of a strong argument, even when the underlying reasoning is weak or flawed.
 
 </details>
+
+### Key considerations and takeways
 
 To identify tautologies in everyday life, it's important to:
 

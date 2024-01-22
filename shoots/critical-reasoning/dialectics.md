@@ -1,6 +1,10 @@
 # Dialectics
 
+### What is dialectics?
+
 Dialectics is a way of thinking and discussing ideas that involves looking at different viewpoints or contradictions and trying to find a deeper understanding or resolution. It's like a conversation between opposing ideas, where you explore the strengths and weaknesses of each side to find a more complete or balanced perspective.
+
+### How we apply dialectics in everyday life?
 
 Here's are some ways we apply dialectics in everyday life:
 
@@ -50,8 +54,10 @@ Dialectics can help us find common ground and resolve conflicts by identifying t
 
 </details>
 
+### Key considerations and takeaways
+
 {% hint style="info" %}
-Did you know there is an entire psychotherapy framework that is based on dialectics? [Dialectical behavioural therapy (DBT)](../../fruits/relational/dialectical-behavioural-therapy.md) is a form of evidence-based psychotherapy that focuses on navigating the dialectical process between change and acceptance.
+Did you know there is an entire psychotherapy framework that is based on dialectics? [Dialectical behavioural therapy (DBT)](../../fruits/relational-implications/dialectical-behavioural-therapy.md) is a form of evidence-based psychotherapy that focuses on navigating the dialectical process between change and acceptance.
 {% endhint %}
 
 These are some ways we can use dialectics effectively:
