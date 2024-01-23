@@ -1,10 +1,14 @@
 # Cause/Reason
 
+### What is cause/reason?
+
 We often use "cause" and "reason" interchangeably in our daily conversations, but in philosophy, they carry distinct meanings. Understanding the difference between a cause and a reason can shape the way we make decisions, solve problems, and interact with others.
 
 A "cause" typically refers to a natural, physical, or mechanical event that brings about an effect or result. This concept is deeply rooted in the field of natural sciences. For instance, if you throw a ball, the force you exerted on it is the cause, and the ball moving forward is the effect. This cause-effect relationship is observable, quantifiable, and can be predicted using the laws of physics.
 
 A "reason," on the other hand, is generally related to human actions and decisions. It involves consciousness and intentionality. When we speak of reasons, we are typically referring to the motivations or rationalisations behind a person's actions. For example, if you decided to study for an exam, the reason might be to get a good grade, to learn, or to maintain your GPA.
+
+### How to apply it in everyday life
 
 Here are some ways how understanding this distinction can impact various aspects of our daily lives:
 
@@ -55,6 +59,8 @@ Distinguishing between cause and reason is central to ethics and morality. Cause
 In conflict situations, focusing on causes might only treat the symptoms rather than resolving the underlying issues. By considering the reasons, we might uncover deeper conflicts or misunderstandings that need to be addressed. If two coworkers are constantly arguing, the cause might be their different work styles, but the reason might be a lack of clear communication or understanding.
 
 </details>
+
+### Key considerations and takeaways
 
 Applying the distinction between cause and reason effectively requires a nuanced understanding and careful consideration.&#x20;
 

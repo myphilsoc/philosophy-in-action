@@ -1,8 +1,12 @@
-# A priori/A posteriori
+# a priori/a posteriori
+
+### What is a priori/a posteriori?
 
 "A priori" is a Latin term that literally translates to "from the earlier." In philosophy, it's used to describe knowledge or justification that is independent of experience. This means that you can know or justify it without needing to observe the world or gather empirical data. Math is a classic example of a priori knowledge. For instance, we know that 2 + 2 = 4 not because we've seen two pairs of objects come together to form four objects over and over again, but because we understand the concepts and rules of arithmetic.
 
 On the other hand, "a posteriori" means "from the later" in Latin. This refers to knowledge or justification that is dependent on experience or empirical evidence. Most of our everyday knowledge is a posteriori. For example, if you know that your dog is in the backyard, it's probably because you've seen or heard them there.
+
+### How to apply it in everyday life
 
 Here are some ways we apply this distinction in everyday life:
 
@@ -45,6 +49,8 @@ Both a priori and a posteriori knowledge can be useful in learning and problem-s
 Meanwhile, a posteriori knowledge would involve learning the meaning of a word from seeing it used in context.
 
 </details>
+
+### Key considerations and takeaways
 
 Understanding the difference between a priori and a posteriori knowledge can be a powerful tool, but using this distinction effectively requires careful thought and consideration.&#x20;
 

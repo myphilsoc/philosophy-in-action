@@ -1,6 +1,14 @@
 # Absolute/Relative
 
-Absolute and Relative are fundamental philosophical concepts that we encounter in numerous contexts, from ethics and morality to the sciences and everyday decision-making. Simply put, an absolute conception refers to something that is independent of anything else and remains unchanging regardless of perspective or context. A relative conception, on the other hand, describes something that changes based on perspective, comparison, or context. It is relational and dependent on something else for its definition.
+### What is absolute/relative?
+
+Absolute and Relative are fundamental philosophical concepts that we encounter in numerous contexts, from ethics and morality to the sciences and everyday decision-making.&#x20;
+
+Simply put, an absolute conception refers to something that is independent of anything else and remains unchanging regardless of perspective or context.&#x20;
+
+A relative conception, on the other hand, describes something that changes based on perspective, comparison, or context. It is relational and dependent on something else for its definition.
+
+### How to apply it in everyday life
 
 Here are some ways we apply this distinction in everyday life:
 
@@ -44,7 +52,7 @@ Relative notions of morality, on the other hand, would argue that moral standard
 
 </details>
 
-Understanding the distinction between absolute and relative is not just about acknowledging their existence but also learning how to apply these concepts effectively in our daily lives.&#x20;
+### Key considerations and takeaways
 
 {% hint style="warning" %}
 While the relative perspective is important for considering various viewpoints, it's also critical not to fall into the trap of **extreme relativism**, where everything is viewed as subjective. This could lead to a dismissive attitude towards universally accepted facts or a reluctance to judge harmful behaviors. Maintaining a balance between acknowledging the validity of different perspectives while upholding universal moral or ethical principles is key.

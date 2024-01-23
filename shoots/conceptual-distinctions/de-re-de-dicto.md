@@ -1,10 +1,14 @@
 # de re/de dicto
 
+### What is de re/de dicto
+
 The terms "de re" and "de dicto" are Latin phrases used in philosophy to distinguish between two types of knowledge or belief.
 
 De re (pronounced "duh-ray") translates to "about the thing" and refers to statements that are about objects or things in the world. For example, if I say, "My car is blue," I'm making a de re statement about a specific object in the world—my car.
 
 On the other hand, "de dicto" translates to "about what is said" and refers to statements about the content of a proposition or belief. For example, if I say, "I believe that all cars are blue," I'm making a de dicto statement about a belief or proposition, not about a specific object in the world.
+
+### How to apply it in everyday life
 
 Here are some ways we apply this distinction in everyday life:
 
@@ -55,6 +59,8 @@ When thinking about what's right or wrong, we often switch between de re and de 
 Understanding these distinctions can aid in resolving misunderstandings. For example, when two people argue over a statement like "John is a good person," they might be talking past each other if one is making a de re claim (referring to specific actions or traits of John) while the other is making a de dicto claim (referring to the general notion of what constitutes a good person).
 
 </details>
+
+### Key considerations and takeaways
 
 Understanding the de re and de dicto distinction is one thing, but using it effectively is another.&#x20;
 

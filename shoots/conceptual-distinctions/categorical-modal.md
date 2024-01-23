@@ -1,10 +1,14 @@
 # Categorical/Modal
 
+### What is categorical/modal?
+
 The categorical and the modal are two different modes of thinking that we use in our daily lives, often without even realising it.
 
 **Categorical thinking** is about dealing with the world as it is. When we use categorical thinking, we're making statements about what is or isn't the case, based on the facts as we understand them. For example, if I say, "It's raining outside," I'm making a categorical statement about the current weather. It simply states a fact, without any indication of possibility, probability, or necessity. Categorical thinking is especially relevant in situations where we need to make sense of concrete data or facts.&#x20;
 
 **Modal thinking**, on the other hand, is about possibilities, potentialities, and what could be. Modal thinking is often expressed through modal verbs like "can," "could," "may," "might," "must," "shall," "should," "will," and "would." For example, "the cat could be on the mat" or "the cat must be on the mat" are modal statements. They involve the modes or ways in which something can exist or take place. When we engage in modal thinking, we're considering various scenarios and outcomes, not just what is currently the case.&#x20;
+
+### How to apply it in everyday life
 
 Here are some ways how understanding this distinction can impact various aspects of our daily lives:
 
@@ -48,6 +52,8 @@ This distinction can help us navigate moral dilemmas by distinguishing between a
 When parties in conflict make categorical assertions ("You always...," "You never..."), it can escalate tensions. Encouraging modal thinking, on the other hand, opens up possibilities for resolution ("What if we tried...," "Could it help if we...").
 
 </details>
+
+### Key considerations and takeaways
 
 Applying the distinction between categorical and modal statements can greatly enhance your reasoning skills. However, it's important to do so with an understanding of its limitations and potential pitfalls
 

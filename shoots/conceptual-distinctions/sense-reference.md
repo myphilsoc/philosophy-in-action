@@ -1,10 +1,14 @@
 # Sense/Reference
 
+### What is sense/reference?
+
 The distinction between sense and reference is a fundamental concept in philosophy, specifically in the area of philosophy of language and semantics, introduced by philosopher Gottlob Frege.
 
 The **reference** of a word or phrase is the actual object in the world that it points to or represents. For example, if we talk about "the Eiffel Tower," the reference of that phrase is the actual, physical Eiffel Tower in Paris.
 
 The **sense** of a word or phrase, on the other hand, is the way in which the reference is presented or the meaning that the word or phrase conveys. For instance, "the Eiffel Tower" and "the Iron Lady" can have the same reference (the same physical object in Paris), but they have different senses—they present that object in different ways and evoke different associations.
+
+### How to apply it in everyday life
 
 Here are some ways how understanding this distinction can impact various aspects of our daily lives:
 
@@ -52,7 +56,9 @@ Let's say two roommates are in conflict over the phrase "keeping the apartment c
 
 </details>
 
-Applying the distinction between categorical and modal statements can greatly enhance your reasoning skills. However, it's important to do so with an understanding of its limitations and potential pitfalls
+### Key considerations and takeaways
+
+Applying the distinction between categorical and modal statements can greatly enhance your reasoning skills. However, it's important to do so with an understanding of its limitations and potential pitfalls.
 
 Here are some tips and considerations to keep in mind:
 

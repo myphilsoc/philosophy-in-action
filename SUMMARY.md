@@ -31,7 +31,7 @@
   * [Doxa](shoots/critical-reasoning/doxa.md)
 * [☯ Conceptual Distinctions](shoots/conceptual-distinctions/README.md)
   * [Absolute/Relative](shoots/conceptual-distinctions/absolute-relative.md)
-  * [A priori/A posteriori](shoots/conceptual-distinctions/a-priori-a-posteriori.md)
+  * [a priori/a posteriori](shoots/conceptual-distinctions/a-priori-a-posteriori.md)
   * [Analytic/Synthetic](shoots/conceptual-distinctions/analytic-synthetic.md)
   * [de re/de dicto](shoots/conceptual-distinctions/de-re-de-dicto.md)
   * [Cause/Reason](shoots/conceptual-distinctions/cause-reason.md)

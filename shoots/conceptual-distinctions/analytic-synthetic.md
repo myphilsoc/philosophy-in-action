@@ -1,10 +1,14 @@
 # Analytic/Synthetic
 
+### What is analytic/synthetic?
+
 The distinction between analytic and synthetic is a central concept in philosophy, especially in understanding the nature of knowledge and belief.
 
 Analytic statements are ones where the truth is contained within the statement itself. In other words, understanding the statement is enough to know that it is true. For example, the statement "all bachelors are unmarried men" is analytic. You don't need to meet every bachelor in the world to know this is true; by definition, a bachelor is an unmarried man.
 
 On the other hand, synthetic statements are those where the truth isn't determined solely by the definitions of the words in the statement. These statements require some kind of experience or evidence beyond the statement itself to verify their truth. For instance, the statement "some bachelors are unhappy" is synthetic. You can't know whether it's true or false just by understanding the words; you would need to conduct some sort of survey or study to find out.
+
+### How to apply it in everyday life
 
 Here are some ways we apply this distinction in everyday life:
 
@@ -52,6 +56,8 @@ In problem-solving, we need to understand the nature of the problem (often throu
 
 </details>
 
+### Key considerations and takeaways
+
 Using the distinction between analytic and synthetic statements effectively can enhance your understanding of the world and improve your critical thinking skills. However, like any tool, it must be used with care.&#x20;
 
 Here are some tips and considerations:
@@ -86,7 +92,7 @@ Synthetic statements often involve a degree of uncertainty because they rely on 
 
 <details>
 
-<summary><strong>Overreliance on Analytic Statements</strong></summary>
+<summary><strong>Over-reliance on Analytic Statements</strong></summary>
 
 While analytic statements are useful for establishing facts based on definitions, overreliance on them can lead to a lack of nuance or depth in understanding. Life's complexities often require synthetic reasoning, which involves evidence, context, and experience.
 
