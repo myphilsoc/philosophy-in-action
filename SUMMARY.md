@@ -37,6 +37,7 @@
   * [Cause/Reason](shoots/conceptual-distinctions/cause-reason.md)
   * [Categorical/Modal](shoots/conceptual-distinctions/categorical-modal.md)
   * [Sense/Reference](shoots/conceptual-distinctions/sense-reference.md)
+  * [Conditional/Biconditional](shoots/conceptual-distinctions/conditional-biconditional.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
   * [The Chinese Room](shoots/thought-experiments/the-chinese-room.md)
