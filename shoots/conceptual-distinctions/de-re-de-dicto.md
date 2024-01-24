@@ -1,6 +1,6 @@
 # de re/de dicto
 
-### What is de re/de dicto
+### What is de re/de dicto?
 
 The terms "de re" and "de dicto" are Latin phrases used in philosophy to distinguish between two types of knowledge or belief.
 

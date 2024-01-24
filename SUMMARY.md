@@ -34,6 +34,7 @@
   * [a priori/a posteriori](shoots/conceptual-distinctions/a-priori-a-posteriori.md)
   * [Analytic/Synthetic](shoots/conceptual-distinctions/analytic-synthetic.md)
   * [de re/de dicto](shoots/conceptual-distinctions/de-re-de-dicto.md)
+  * [Defeasible/Indefeasible](shoots/conceptual-distinctions/defeasible-indefeasible.md)
   * [Cause/Reason](shoots/conceptual-distinctions/cause-reason.md)
   * [Categorical/Modal](shoots/conceptual-distinctions/categorical-modal.md)
   * [Sense/Reference](shoots/conceptual-distinctions/sense-reference.md)
