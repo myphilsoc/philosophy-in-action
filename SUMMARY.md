@@ -42,6 +42,7 @@
   * [Entailment/Implication](shoots/conceptual-distinctions/entailment-implication.md)
   * [Endurantism/Perdurantism](shoots/conceptual-distinctions/endurantism-perdurantism.md)
   * [Essential/Accidental](shoots/conceptual-distinctions/essential-accidental.md)
+  * [Knowledge by acquaintance/Knowledge by description](shoots/conceptual-distinctions/knowledge-by-acquaintance-knowledge-by-description.md)
   * [Belief/Knowledge](shoots/conceptual-distinctions/belief-knowledge.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
