@@ -40,6 +40,7 @@
   * [Sense/Reference](shoots/conceptual-distinctions/sense-reference.md)
   * [Conditional/Biconditional](shoots/conceptual-distinctions/conditional-biconditional.md)
   * [Entailment/Implication](shoots/conceptual-distinctions/entailment-implication.md)
+  * [Endurantism/Perdurantism](shoots/conceptual-distinctions/endurantism-perdurantism.md)
   * [Belief/Knowledge](shoots/conceptual-distinctions/belief-knowledge.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
