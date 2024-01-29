@@ -47,6 +47,7 @@
   * [Belief/Knowledge](shoots/conceptual-distinctions/belief-knowledge.md)
   * [Necessary/Contingent](shoots/conceptual-distinctions/necessary-contingent.md)
   * [Necessary/Sufficient](shoots/conceptual-distinctions/necessary-sufficient.md)
+  * [Being/Nothingness](shoots/conceptual-distinctions/being-nothingness.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
   * [The Chinese Room](shoots/thought-experiments/the-chinese-room.md)
