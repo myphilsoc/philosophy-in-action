@@ -49,6 +49,7 @@
   * [Necessary/Sufficient](shoots/conceptual-distinctions/necessary-sufficient.md)
   * [Being/Nothingness](shoots/conceptual-distinctions/being-nothingness.md)
   * [Objective/Subjective](shoots/conceptual-distinctions/objective-subjective.md)
+  * [Syntax/Semantics](shoots/conceptual-distinctions/syntax-semantics.md)
 * [⚗ Thought Experiments](shoots/thought-experiments/README.md)
   * [Ship of Theseus](shoots/thought-experiments/ship-of-theseus.md)
   * [The Chinese Room](shoots/thought-experiments/the-chinese-room.md)
