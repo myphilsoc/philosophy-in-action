@@ -4,9 +4,9 @@ The term "philosophy" evokes images of ancient thinkers pondering existential qu
 
 ### How philosophy can contribute to education
 
-Philosophy can deepen students' understanding, enhance their critical thinking skills, improve their ability to make logical arguments, and provide them with a broader perspective on the world. For instance, the concept of [logical reasoning](../../shoots/critical-reasoning/), a foundational principle of philosophy, is an essential skill in every academic discipline, from mathematics to social sciences.&#x20;
+Philosophy can deepen students' understanding, enhance their critical thinking skills, improve their ability to make logical arguments, and provide them with a broader perspective on the world. For instance, the concept of [logical reasoning](../../tools/critical-reasoning/), a foundational principle of philosophy, is an essential skill in every academic discipline, from mathematics to social sciences.&#x20;
 
-Philosophy fosters this skill, teaching students to [analyse arguments](../../shoots/critical-reasoning/argumentation.md), recognise [logical fallacies](../../shoots/critical-reasoning/fallacy.md), and build solid cases of their own. For example, students studying history who've learned about logical reasoning can better assess sources, interpret historical events, and construct strong arguments.
+Philosophy fosters this skill, teaching students to [analyse arguments](../../tools/critical-reasoning/argumentation.md), recognise [logical fallacies](../../tools/critical-reasoning/fallacy.md), and build solid cases of their own. For example, students studying history who've learned about logical reasoning can better assess sources, interpret historical events, and construct strong arguments.
 
 ### Enhancing literacy
 

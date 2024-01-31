@@ -9,17 +9,13 @@ coverY: 0
 
 Welcome to The Everyday Philosopher's Guide!
 
-This isn't just a handbook, it's an invitation to embark on a journey to explore the different ways we can build a life worth living through philosophical ideas and methods.
+If you're seeking to learn how to apply philosophical tools and live more reflective, examined lives, you've come to the right place!
 
-Just like philosophy itself, this handbook isn't set in stone. It's more like a garden that we're tending together, growing and changing with every new idea and discovery. As the gardeners of this space, we're always planting new seeds as we come across fresh and exciting developments in the world of philosophy.
+This guide contains all you need to start building a life worth living through philosophical ideas and methods. We've found them super helpful, and we think you might too, so we're sharing them here for everyone to use.&#x20;
 
-## Finding Your Way Around
+For free.
 
-{% hint style="info" %}
-If you're looking for something specific, use the search function at the top right corner of your screen. And if you have a specific question, switch the toggle to Lens and type your question. It's pretty solid. 😉
-{% endhint %}
-
-The Everyday Philosopher's Guide contains all you need to start weaving philosophy into your life. We've packed it with all the tried-and-true tools and practices we've picked up on our own philosophical journeys. We've found them super helpful, and we think you might too, so we're sharing them here for everyone to use.
+Just like philosophy itself, this handbook isn't set in stone. It's more like a garden that we're tending together, growing and changing with every new idea and discovery. As the gardeners of this space, we're always planting new seeds as we come across fresh and exciting developments in applied and practical philosophy.
 
 {% hint style="warning" %}
 **Empty Entries Ahead!**
@@ -35,81 +31,109 @@ In some cases, we haven't yet delved into certain topics simply because we don't
 Your input and expertise can make a world of difference in expanding our philosophical garden. Please don't hesitate to reach out and help us enrich the Everyday Philosopher's Guide for everyone.
 {% endhint %}
 
+***
+
+## Finding Your Way Around
+
+{% hint style="info" %}
+If you're looking for something specific, use the AI-powered search function at the top right corner of your screen.&#x20;
+{% endhint %}
+
 We've split the contents of this guide into three main sections:
 
-### 🌱 **Shoots**&#x20;
+### ⚙️ **Tools**&#x20;
 
-These are the basic building blocks of philosophy, including mental models that come in handy when we're trying to figure things out. There are currently four collections in this section:
+These are the basic building blocks of philosophy, including mental models that come in handy when we're trying to figure things out. There are currently five collections in this section:
 
 Looking for methods or processes to **make sense of information, build arguments and form conclusions?** ⬇️
 
-{% content-ref url="shoots/critical-reasoning/" %}
-[critical-reasoning](shoots/critical-reasoning/)
+{% content-ref url="tools/critical-reasoning/" %}
+[critical-reasoning](tools/critical-reasoning/)
 {% endcontent-ref %}
+
+***
 
 Looking for tools that can **reveal multiple perspectives and promote a nuanced understanding of issues?** ⬇️
 
-{% content-ref url="shoots/conceptual-distinctions/" %}
-[conceptual-distinctions](shoots/conceptual-distinctions/)
+{% content-ref url="tools/conceptual-distinctions/" %}
+[conceptual-distinctions](tools/conceptual-distinctions/)
 {% endcontent-ref %}
+
+***
 
 Looking for **principles that serve as the foundation for thinking** like the law of non-contradiction, Occam's razor?  ⬇️
 
-{% content-ref url="shoots/principles-and-axioms/" %}
-[principles-and-axioms](shoots/principles-and-axioms/)
+{% content-ref url="tools/principles-and-axioms/" %}
+[principles-and-axioms](tools/principles-and-axioms/)
 {% endcontent-ref %}
 
-Looking for cognitive biases that can trip us up in our reasoning or decision-making processes? ⬇️
+***
 
-{% content-ref url="shoots/fallacies/" %}
-[fallacies](shoots/fallacies/)
+Looking for **cognitive biases** that can trip us up in our reasoning or decision-making processes? ⬇️
+
+{% content-ref url="tools/fallacies/" %}
+[fallacies](tools/fallacies/)
 {% endcontent-ref %}
 
-### ⚓️ **Roots**
+***
+
+### 📜 **Lore**
 
 Every idea has to come from somewhere. Drawing from diverse traditions around the world, we explore the different philosophical traditions and examine how they've shaped the way we think today.
 
 Looking for the work of a **specific philosopher**? ⬇️
 
-{% content-ref url="roots/philosophers/" %}
-[philosophers](roots/philosophers/)
+{% content-ref url="lore/philosophers/" %}
+[philosophers](lore/philosophers/)
 {% endcontent-ref %}
+
+***
 
 Looking for philosophical insights from a **specific belief system**? ⬇️
 
-{% content-ref url="roots/religious-traditions/" %}
-[religious-traditions](roots/religious-traditions/)
+{% content-ref url="lore/religious-traditions/" %}
+[religious-traditions](lore/religious-traditions/)
 {% endcontent-ref %}
+
+***
 
 Looking for philosophical insights from a **specific region/locality/culture**? ⬇️
 
-{% content-ref url="roots/geographical-regions.md" %}
-[geographical-regions.md](roots/geographical-regions.md)
+{% content-ref url="lore/geographical-regions.md" %}
+[geographical-regions.md](lore/geographical-regions.md)
 {% endcontent-ref %}
 
-### 🍎 **Fruits**&#x20;
+***
+
+### 🍎 **Applications**&#x20;
 
 Here, we look at the real-world benefits of philosophy. We'll show you how philosophical ideas and methods can make a difference in everything from your personal self-reflection to big societal issues like public policy, healthcare, and education.
 
 Looking for personal development? ⬇️
 
-{% content-ref url="fruits/personal-implications/" %}
-[personal-implications](fruits/personal-implications/)
+{% content-ref url="applications/personal-applications/" %}
+[personal-applications](applications/personal-applications/)
 {% endcontent-ref %}
+
+***
 
 Looking for tools to improve relationships? ⬇️
 
-{% content-ref url="fruits/relational-implications/" %}
-[relational-implications](fruits/relational-implications/)
+{% content-ref url="applications/relational-applications/" %}
+[relational-applications](applications/relational-applications/)
 {% endcontent-ref %}
 
-Looking for ways philosophy can be applied to various aspects of society? ⬇️
+***
 
-{% content-ref url="fruits/societal-implications/" %}
-[societal-implications](fruits/societal-implications/)
+Looking for ways philosophy have been and can be applied to various aspects of society? ⬇️
+
+{% content-ref url="applications/societal-applications/" %}
+[societal-applications](applications/societal-applications/)
 {% endcontent-ref %}
 
-## About
+***
+
+## About us
 
 {% hint style="info" %}
 Curious to know what drives the work we do? Check out [our manifesto](about/manifesto-of-the-everyday-philosopher.md)!&#x20;

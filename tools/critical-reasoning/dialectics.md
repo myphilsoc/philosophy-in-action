@@ -57,7 +57,7 @@ Dialectics can help us find common ground and resolve conflicts by identifying t
 ### Key considerations and takeaways
 
 {% hint style="info" %}
-Did you know there is an entire psychotherapy framework that is based on dialectics? [Dialectical behavioural therapy (DBT)](../../fruits/relational-implications/dialectical-behavioural-therapy.md) is a form of evidence-based psychotherapy that focuses on navigating the dialectical process between change and acceptance.
+Did you know there is an entire psychotherapy framework that is based on dialectics? [Dialectical behavioural therapy (DBT)](../../applications/relational-applications/dialectical-behavioural-therapy.md) is a form of evidence-based psychotherapy that focuses on navigating the dialectical process between change and acceptance.
 {% endhint %}
 
 These are some ways we can use dialectics effectively:

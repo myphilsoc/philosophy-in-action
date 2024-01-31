@@ -1,5 +1,7 @@
 # Circularity
 
+### What is circularity?
+
 Circularity, also known as circular reasoning or begging the question, is a logical fallacy that occurs when an argument relies on its own conclusion as one of its premises. In other words, it happens when the reasoning used to support a claim merely restates the claim instead of providing independent evidence or arguments.&#x20;
 
 {% hint style="info" %}
@@ -7,6 +9,8 @@ Circularity is considered a flawed form of reasoning because it doesn't offer an
 {% endhint %}
 
 For example, a circular argument might be: "This medicine is effective because it works." The claim that the medicine is effective is supported by the premise that it works, which is just a restatement of the claim. A better argument would provide independent evidence, such as clinical trial results or expert testimonials, to support the claim that the medicine is effective.
+
+### How circularity affects us in everyday life&#x20;
 
 Here's are some ways circularity affects us in everyday life:
 
@@ -33,6 +37,8 @@ Relying on circular arguments can result in poor decision-making, as it may lead
 Encountering circular reasoning in our own thoughts or the arguments of others can help us develop our critical thinking skills by forcing us to recognise and question the underlying assumptions and logic of our beliefs.
 
 </details>
+
+### Key considerations and takeaways
 
 To deal with circularity effectively in everyday life, it's important to:
 

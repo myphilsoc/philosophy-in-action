@@ -14,12 +14,12 @@ We believe that incorporating philosophical ideas and methods into practice can 
 
 We explore these reasons further in the 🍎 Fruits section of this guide.&#x20;
 
-{% content-ref url="fruits/personal-implications/" %}
-[personal-implications](fruits/personal-implications/)
+{% content-ref url="applications/personal-applications/" %}
+[personal-applications](applications/personal-applications/)
 {% endcontent-ref %}
 
-{% content-ref url="fruits/relational-implications/" %}
-[relational-implications](fruits/relational-implications/)
+{% content-ref url="applications/relational-applications/" %}
+[relational-applications](applications/relational-applications/)
 {% endcontent-ref %}
 
 ### What can we do?
@@ -37,16 +37,16 @@ Incorporating philosophical ideas and methods into practice involves synthesisin
 
 This is of course not an exhaustive list. To explore this further, check out the following collections:
 
-{% content-ref url="shoots/critical-reasoning/" %}
-[critical-reasoning](shoots/critical-reasoning/)
+{% content-ref url="tools/critical-reasoning/" %}
+[critical-reasoning](tools/critical-reasoning/)
 {% endcontent-ref %}
 
-{% content-ref url="shoots/conceptual-distinctions/" %}
-[conceptual-distinctions](shoots/conceptual-distinctions/)
+{% content-ref url="tools/conceptual-distinctions/" %}
+[conceptual-distinctions](tools/conceptual-distinctions/)
 {% endcontent-ref %}
 
-{% content-ref url="fruits/societal-implications/" %}
-[societal-implications](fruits/societal-implications/)
+{% content-ref url="applications/societal-applications/" %}
+[societal-applications](applications/societal-applications/)
 {% endcontent-ref %}
 
 Ultimately, incorporating philosophical ideas and methods into practice requires a combination of intellectual rigour and practical wisdom, and a willingness to continuously learn and adapt. With regular practice, we believe they can bring a greater sense of purpose, meaning, and direction to individuals and organisations, and can help to create a more equitable, just, and sustainable world.\

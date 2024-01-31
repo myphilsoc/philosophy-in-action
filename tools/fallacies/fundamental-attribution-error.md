@@ -1,5 +1,7 @@
 # Fundamental attribution error
 
+### What is fundamental attribution error?
+
 The fundamental attribution error (FAE) is a concept in social psychology that describes our tendency to overemphasize personal characteristics and ignore situational factors in judging others' behavior.&#x20;
 
 In simple terms, it's our inclination to attribute people's actions more to their personality or disposition and less to their circumstances or environment.
