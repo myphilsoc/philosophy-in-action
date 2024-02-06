@@ -12,7 +12,7 @@ We believe that incorporating philosophical ideas and methods into practice can 
 4. Enhanced creativity: Philosophical thinking can inspire individuals to think outside the box and to approach problems from novel and innovative perspectives.
 5. Improved communication: Philosophical inquiry can help individuals to better understand and articulate their own thoughts and ideas, as well as to engage in meaningful dialogue and debate with others.
 
-We explore these reasons further in the 🍎 Fruits section of this guide.&#x20;
+We explore these reasons further in the 🛠️ Applications section of this guide.&#x20;
 
 {% content-ref url="applications/personal-applications/" %}
 [personal-applications](applications/personal-applications/)

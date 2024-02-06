@@ -105,7 +105,7 @@ Looking for philosophical insights from a **specific region/locality/culture**? 
 
 ***
 
-### 🍎 **Applications**&#x20;
+### 🛠️ **Applications**&#x20;
 
 Here, we look at the real-world benefits of philosophy. We'll show you how philosophical ideas and methods can make a difference in everything from your personal self-reflection to big societal issues like public policy, healthcare, and education.
 
