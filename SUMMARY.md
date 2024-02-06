@@ -66,8 +66,9 @@
 ## 📜 Lore
 
 * [🧑🏫 Philosophers](lore/philosophers/README.md)
-  * [Ancient](lore/philosophers/ancient/README.md)
+  * [Ancient](lore/philosophers/ancient.md)
     * [Aristotle](lore/philosophers/ancient/aristotle.md)
+    * [Confucius](lore/philosophers/ancient/confucius.md)
   * [Medieval](lore/philosophers/medieval.md)
   * [Modern](lore/philosophers/modern.md)
   * [Contemporary](lore/philosophers/contemporary.md)
