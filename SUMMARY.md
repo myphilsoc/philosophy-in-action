@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Start here](README.md)
+* [👋 Start Here - What is the Everyday Philosopher's Guide?](README.md)
 * [What is Philosophy?](what-is-philosophy.md)
 * [Putting Philosophy Into Practice](putting-philosophy-into-practice.md)
 

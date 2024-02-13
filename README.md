@@ -3,9 +3,9 @@ description: First time here?
 coverY: 0
 ---
 
-# 👋 Start here
+# 👋 Start Here - What is the Everyday Philosopher's Guide?
 
-## What is The Everyday Philosopher's Guide?
+## Hello Thinker.
 
 Welcome to The Everyday Philosopher's Guide!
 
