@@ -1,8 +1,8 @@
 # Table of contents
 
 * [👋 Start here](README.md)
-* [What is Philosophy](what-is-philosophy.md)
-* [Putting philosophy into practice](putting-philosophy-into-practice.md)
+* [What is Philosophy?](what-is-philosophy.md)
+* [Putting Philosophy Into Practice](putting-philosophy-into-practice.md)
 
 ## ⚙ Tools
 
