@@ -39,6 +39,8 @@ Your input and expertise can make a world of difference in expanding our philoso
 If you're looking for something specific, use the AI-powered search function at the top right corner of your screen.&#x20;
 {% endhint %}
 
+<figure><img src=".gitbook/assets/The Everyday Philosopher&#x27;s Guide.png" alt=""><figcaption></figcaption></figure>
+
 We've split the contents of The Everyday Philosopher's Guide into three main sections:
 
 ### ⚙️ **Tools**&#x20;
