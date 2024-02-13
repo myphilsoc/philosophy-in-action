@@ -5,7 +5,7 @@ coverY: 0
 
 # 👋 Start here
 
-## Hello Thinker.
+## What is The Everyday Philosopher's Guide?
 
 Welcome to The Everyday Philosopher's Guide!
 
@@ -33,13 +33,13 @@ Your input and expertise can make a world of difference in expanding our philoso
 
 ***
 
-## Finding Your Way Around
+## Finding Your Way Around The Everyday Philosopher's Guide
 
 {% hint style="info" %}
 If you're looking for something specific, use the AI-powered search function at the top right corner of your screen.&#x20;
 {% endhint %}
 
-We've split the contents of this guide into three main sections:
+We've split the contents of The Everyday Philosopher's Guide into three main sections:
 
 ### ⚙️ **Tools**&#x20;
 
@@ -133,13 +133,13 @@ Looking for ways philosophy have been and can be applied to various aspects of s
 
 ***
 
-## About us
+## About Us
 
 {% hint style="info" %}
 Curious to know what drives the work we do? Check out [our manifesto](about/manifesto-of-the-everyday-philosopher.md)!&#x20;
 {% endhint %}
 
-If you’re interested in the people behind the creation of this wiki, do check out [who we are](about/our-contributors/).
+If you’re interested in the people behind the creation of The Everyday Philosopher's Guide, do check out [who we are](about/our-contributors/).
 
 We're also on the lookout for new **contributors, critics, and translators**. So, if you fancy joining us on this philosophical adventure, drop us a line at [hello@myphilsoc.com](mailto:hello@myphilsoc.com).
 
