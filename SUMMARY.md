@@ -4,7 +4,7 @@
 * [What is Philosophy?](what-is-philosophy.md)
 * [Putting Philosophy Into Practice](putting-philosophy-into-practice.md)
 
-## ⚙ Tools
+## ⚙️ Tools
 
 * [🤔 Critical Reasoning](tools/critical-reasoning/README.md)
   * [Argumentation](tools/critical-reasoning/argumentation.md)
@@ -29,7 +29,7 @@
   * [Counterexample](tools/critical-reasoning/counterexample.md)
   * [Criteria](tools/critical-reasoning/criteria.md)
   * [Doxa](tools/critical-reasoning/doxa.md)
-* [☯ Conceptual Distinctions](tools/conceptual-distinctions/README.md)
+* [☯️ Conceptual Distinctions](tools/conceptual-distinctions/README.md)
   * [Absolute/Relative](tools/conceptual-distinctions/absolute-relative.md)
   * [a priori/a posteriori](tools/conceptual-distinctions/a-priori-a-posteriori.md)
   * [Analytic/Synthetic](tools/conceptual-distinctions/analytic-synthetic.md)
@@ -51,7 +51,7 @@
   * [Objective/Subjective](tools/conceptual-distinctions/objective-subjective.md)
   * [Syntax/Semantics](tools/conceptual-distinctions/syntax-semantics.md)
   * [Type/Token](tools/conceptual-distinctions/type-token.md)
-* [⚗ Thought Experiments](tools/thought-experiments/README.md)
+* [⚗️ Thought Experiments](tools/thought-experiments/README.md)
   * [Ship of Theseus](tools/thought-experiments/ship-of-theseus.md)
   * [The Chinese Room](tools/thought-experiments/the-chinese-room.md)
   * [Thompson's Violinist](tools/thought-experiments/thompsons-violinist.md)
@@ -59,27 +59,27 @@
   * [Confirmation bias](tools/fallacies/confirmation-bias.md)
   * [Circularity](tools/fallacies/circularity.md)
   * [Fundamental attribution error](tools/fallacies/fundamental-attribution-error.md)
-* [⚖ Principles and Axioms](tools/principles-and-axioms/README.md)
+* [⚖️ Principles and Axioms](tools/principles-and-axioms/README.md)
   * [Principle of Charity](tools/principles-and-axioms/principle-of-charity.md)
   * [Golden Rule](tools/principles-and-axioms/golden-rule.md)
 
 ## 📜 Lore
 
-* [🧑🏫 Philosophers](lore/philosophers/README.md)
+* [🧑‍🏫 Philosophers](lore/philosophers/README.md)
   * [Ancient](lore/philosophers/ancient.md)
     * [Aristotle](lore/philosophers/ancient/aristotle.md)
     * [Confucius](lore/philosophers/ancient/confucius.md)
   * [Medieval](lore/philosophers/medieval.md)
   * [Modern](lore/philosophers/modern.md)
   * [Contemporary](lore/philosophers/contemporary.md)
-* [🛐 Religious Traditions](lore/religious-traditions/README.md)
-  * [Baha'i Faith](lore/religious-traditions/bahai-faith.md)
-  * [Buddhism](lore/religious-traditions/buddhism.md)
-  * [Judaism](lore/religious-traditions/judaism.md)
-  * [Islam](lore/religious-traditions/islam.md)
-* [🗺 Geographical Regions](lore/geographical-regions.md)
+* [🛐 Traditions](lore/traditions/README.md)
+  * [Baha'i Faith](lore/traditions/bahai-faith.md)
+  * [Buddhism](lore/traditions/buddhism.md)
+  * [Judaism](lore/traditions/judaism.md)
+  * [Islam](lore/traditions/islam.md)
+* [🗺️ Geographical Regions](lore/geographical-regions.md)
 
-## 🛠 Applications
+## 🛠️ Applications
 
 * [From Person to Society](applications/from-person-to-society.md)
 * [🧍 Personal Applications](applications/personal-applications/README.md)

@@ -93,8 +93,8 @@ Looking for the work of a **specific philosopher**? ⬇️
 
 Looking for philosophical insights from a **specific belief system**? ⬇️
 
-{% content-ref url="lore/religious-traditions/" %}
-[religious-traditions](lore/religious-traditions/)
+{% content-ref url="lore/traditions/" %}
+[traditions](lore/traditions/)
 {% endcontent-ref %}
 
 ***
