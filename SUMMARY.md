@@ -83,10 +83,11 @@
 
 * [From Person to Society](applications/from-person-to-society.md)
 * [🧍 Personal Applications](applications/personal-applications/README.md)
-  * [On self-reflection](applications/personal-applications/on-self-reflection.md)
+  * [Self-reflection](applications/personal-applications/self-reflection.md)
   * [Philosophical Health](applications/personal-applications/philosophical-health.md)
   * [Journaling](applications/personal-applications/journaling.md)
   * [Skills Development](applications/personal-applications/skills-development/README.md)
+    * [Inner Development Goals](applications/personal-applications/skills-development/inner-development-goals.md)
     * [Metacognition](applications/personal-applications/skills-development/metacognition.md)
     * [Sensemaking](applications/personal-applications/skills-development/sensemaking.md)
     * [Open-mindedness](applications/personal-applications/skills-development/open-mindedness.md)
