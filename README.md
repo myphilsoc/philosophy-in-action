@@ -26,7 +26,7 @@ You might notice that some of our entries are currently empty. We want to assure
 We're still in the process of transferring some of the existing content to the wiki. Rest assured, we're working hard to make sure all the valuable information finds its way here soon.
 
 🧑‍🏫 **Expertise Needed**\
-In some cases, we haven't yet delved into certain topics simply because we don't have the necessary expertise. We recognise the importance of these subjects and are actively seeking collaboration with experts to build comprehensive, accurate entries. **If you're knowledgeable in any of these areas, or know someone who is, we'd love to hear from you!** Reach out to us at **hello@myphilsoc.com**
+In some cases, we haven't yet delved into certain topics simply because we don't have the necessary expertise. We recognise the importance of these subjects and are actively seeking collaboration with experts to build comprehensive, accurate entries. **If you're knowledgeable in any of these areas, or know someone who is, we'd love to hear from you!** Reach out to us at **everydayphilosopher@myphilsoc.com**
 
 Your input and expertise can make a world of difference in expanding our philosophical garden. Please don't hesitate to reach out and help us enrich the Everyday Philosopher's Guide for everyone.
 {% endhint %}
