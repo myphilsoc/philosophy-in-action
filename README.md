@@ -143,6 +143,6 @@ Curious to know what drives the work we do? Check out [our manifesto](about/mani
 
 If you’re interested in the people behind the creation of The Everyday Philosopher's Guide, do check out [who we are](about/our-contributors/).
 
-We're also on the lookout for new **contributors, critics, and translators**. So, if you fancy joining us on this philosophical adventure, drop us a line at [hello@myphilsoc.com](mailto:hello@myphilsoc.com).
+We're also on the lookout for new **contributors, critics, and translators**. So, if you fancy joining us on this philosophical adventure, drop us a line at everydayphilosopher@myphilsoc.com
 
 Ready to dive in? Happy exploring!
