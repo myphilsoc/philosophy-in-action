@@ -72,11 +72,12 @@
   * [Medieval](lore/philosophers/medieval.md)
   * [Modern](lore/philosophers/modern.md)
   * [Contemporary](lore/philosophers/contemporary.md)
-* [🛐 Traditions](lore/traditions/README.md)
+* [📚 Traditions](lore/traditions/README.md)
   * [Baha'i Faith](lore/traditions/bahai-faith.md)
   * [Buddhism](lore/traditions/buddhism.md)
   * [Judaism](lore/traditions/judaism.md)
   * [Islam](lore/traditions/islam.md)
+  * [Posthumanism](lore/traditions/posthumanism.md)
 * [🗺️ Geographical Regions](lore/geographical-regions.md)
 
 ## 🛠️ Applications

@@ -91,7 +91,7 @@ Looking for the work of a **specific philosopher**? ⬇️
 
 ***
 
-Looking for philosophical insights from a **specific belief system**? ⬇️
+Looking for philosophical insights from a **specific intellectual movement/tradition**? ⬇️
 
 {% content-ref url="lore/traditions/" %}
 [traditions](lore/traditions/)
