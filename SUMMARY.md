@@ -93,6 +93,7 @@
     * [Inner Development Goals](applications/personal-applications/skills-development/inner-development-goals.md)
     * [Metacognition](applications/personal-applications/skills-development/metacognition.md)
     * [Integrity and Authenticity](applications/personal-applications/skills-development/integrity-and-authenticity.md)
+    * [Presence](applications/personal-applications/skills-development/presence.md)
     * [Sensemaking](applications/personal-applications/skills-development/sensemaking.md)
     * [Open-mindedness](applications/personal-applications/skills-development/open-mindedness.md)
     * [Communication](applications/personal-applications/skills-development/communication.md)
