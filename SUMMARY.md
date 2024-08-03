@@ -69,6 +69,8 @@
   * [Ancient](lore/philosophers/ancient.md)
     * [Aristotle](lore/philosophers/ancient/aristotle.md)
     * [Confucius](lore/philosophers/ancient/confucius.md)
+    * [Xunzi](lore/philosophers/ancient/xunzi.md)
+    * [Mencius](lore/philosophers/ancient/mencius.md)
     * [Thiruvalluvar](lore/philosophers/ancient/thiruvalluvar.md)
   * [Medieval](lore/philosophers/medieval.md)
   * [Modern](lore/philosophers/modern.md)
