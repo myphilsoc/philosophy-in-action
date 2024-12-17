@@ -36,7 +36,7 @@ Your input and expertise can make a world of difference in expanding our philoso
 ## Finding Your Way Around The Everyday Philosopher's Guide
 
 {% hint style="info" %}
-If you're looking for something specific, use the AI-powered search function at the top right corner of your screen.&#x20;
+If you're looking for something specific, use the search function at the top right corner of your screen.&#x20;
 {% endhint %}
 
 <figure><img src=".gitbook/assets/The Everyday Philosopher&#x27;s Guide.png" alt="The Everyday Philosopher&#x27;s Guide"><figcaption></figcaption></figure>
@@ -65,8 +65,8 @@ Looking for tools that can **reveal multiple perspectives and promote a nuanced 
 
 Looking for **principles that serve as the foundation for thinking** like the law of non-contradiction, Occam's razor?  ⬇️
 
-{% content-ref url="tools/principles-and-axioms/" %}
-[principles-and-axioms](tools/principles-and-axioms/)
+{% content-ref url="tools/philosophical-frameworks/" %}
+[philosophical-frameworks](tools/philosophical-frameworks/)
 {% endcontent-ref %}
 
 ***

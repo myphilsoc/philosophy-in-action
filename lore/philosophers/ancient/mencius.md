@@ -38,7 +38,7 @@ According to Mencius, there are four innate moral tendencies or "beginnings" (si
 * **Wisdom (智 zhi)** - The ability to distinguish right from wrong. This relates to moral reasoning and judgment.
 
 Mencius also suggests that wisdom and propriety are secondary in importance to benevolence and righteousness. As [he states](https://www.webpages.uidaho.edu/ngier/308/mennotes.htm):\
-_"The core of benevolence is serving one's parents. The core of righteousness is obeying one's elder brother. The core of wisdom is knowing these two and not abandoning them. The core of propriety is to regulate and adorn these two."_&#x20;
+&#xNAN;_"The core of benevolence is serving one's parents. The core of righteousness is obeying one's elder brother. The core of wisdom is knowing these two and not abandoning them. The core of propriety is to regulate and adorn these two."_&#x20;
 
 This indicates benevolence and righteousness are foundational, with wisdom and propriety building upon them.
 

@@ -46,7 +46,7 @@ Axioms can serve as guiding principles in our lives, shaping our beliefs, values
 While axioms are generally accepted as true, it's important to recognise that they can sometimes be challenged or revised as new information or perspectives emerge.
 {% endhint %}
 
-To explore commonly-used examples of axioms in everyday life, check out [Principles and Axioms](../principles-and-axioms/).\
+To explore commonly-used examples of axioms in everyday life, check out [Principles and Axioms](../philosophical-frameworks/).\
 \
 
 

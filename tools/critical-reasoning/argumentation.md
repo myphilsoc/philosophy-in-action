@@ -55,7 +55,7 @@ To use argumentation effectively in everyday life, it's important to:
 * Construct clear, logical, and well-supported arguments.
 * Listen carefully to the arguments of others and respond thoughtfully.
 * Be open to changing your mind if presented with persuasive evidence or reasoning.
-* Maintain a respectful and open-minded attitude during discussions or debates. (see [_Principle of Charity_](../principles-and-axioms/principle-of-charity.md))
+* Maintain a respectful and open-minded attitude during discussions or debates. (see [_Principle of Charity_](../philosophical-frameworks/principle-of-charity.md))
 
 Argumentation is an essential skill in everyday life, as it enables us to present and evaluate ideas, engage in meaningful discussions, make informed decisions, and resolve conflicts. By developing strong argumentation skills, we become more effective communicators, critical thinkers, and problem-solvers.
 

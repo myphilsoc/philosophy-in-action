@@ -90,7 +90,7 @@ While it's helpful to distinguish between cause and reason, it's also important 
 
 <summary>Be mindful of bias</summary>
 
-When considering reasons, we need to be mindful of our own biases. We often interpret others' reasons based on our own experiences and perspectives, which might not align with their actual motivations. This is known as the [Fundamental Attribution Error](../fallacies/fundamental-attribution-error.md) in psychology. To mitigate this, [practice empathy and active listening](../principles-and-axioms/principle-of-charity.md), and seek clarification when necessary.
+When considering reasons, we need to be mindful of our own biases. We often interpret others' reasons based on our own experiences and perspectives, which might not align with their actual motivations. This is known as the [Fundamental Attribution Error](../fallacies/fundamental-attribution-error.md) in psychology. To mitigate this, [practice empathy and active listening](../philosophical-frameworks/principle-of-charity.md), and seek clarification when necessary.
 
 </details>
 

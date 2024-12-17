@@ -54,14 +54,15 @@
 * [⚗️ Thought Experiments](tools/thought-experiments/README.md)
   * [Ship of Theseus](tools/thought-experiments/ship-of-theseus.md)
   * [The Chinese Room](tools/thought-experiments/the-chinese-room.md)
+  * [Butterfly Dream](tools/thought-experiments/butterfly-dream.md)
   * [Thompson's Violinist](tools/thought-experiments/thompsons-violinist.md)
 * [💫 Fallacies](tools/fallacies/README.md)
   * [Confirmation bias](tools/fallacies/confirmation-bias.md)
   * [Circularity](tools/fallacies/circularity.md)
   * [Fundamental attribution error](tools/fallacies/fundamental-attribution-error.md)
-* [⚖️ Principles and Axioms](tools/principles-and-axioms/README.md)
-  * [Principle of Charity](tools/principles-and-axioms/principle-of-charity.md)
-  * [Golden Rule](tools/principles-and-axioms/golden-rule.md)
+* [⚖️ Philosophical Frameworks](tools/philosophical-frameworks/README.md)
+  * [Principle of Charity](tools/philosophical-frameworks/principle-of-charity.md)
+  * [Golden Rule](tools/philosophical-frameworks/golden-rule.md)
 
 ## 📜 Lore
 
@@ -71,6 +72,7 @@
     * [Confucius](lore/philosophers/ancient/confucius.md)
     * [Xunzi](lore/philosophers/ancient/xunzi.md)
     * [Mencius](lore/philosophers/ancient/mencius.md)
+    * [Zhuangzi](lore/philosophers/ancient/zhuangzi.md)
     * [Thiruvalluvar](lore/philosophers/ancient/thiruvalluvar.md)
   * [Medieval](lore/philosophers/medieval.md)
   * [Modern](lore/philosophers/modern.md)

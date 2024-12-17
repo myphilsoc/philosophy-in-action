@@ -42,7 +42,7 @@ These are some ways we can minimize the impact of fallacies in our lives:
 
 * Identify and recognise common fallacies.
 * Analyze and evaluate the reasoning behind arguments and opinions.
-* Practise the [principle of charity](../principles-and-axioms/principle-of-charity.md).\
+* Practise the [principle of charity](../philosophical-frameworks/principle-of-charity.md).\
 
 
 {% hint style="info" %}
