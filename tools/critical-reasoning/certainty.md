@@ -54,7 +54,7 @@ In some cases, certainty can help reduce stress and anxiety by eliminating doubt
 Certainty can also have negative consequences, particularly if it leads to overconfidence or closed-mindedness. Being excessively certain about our beliefs or opinions can prevent us from considering alternative viewpoints, questioning our assumptions, or adapting to new information. (See [_confirmation bias_](../fallacies/confirmation-bias.md)_)_
 {% endhint %}
 
-To apply abductive reasoning effectively in everyday life, it's important to:
+To discern certainty effectively in everyday life, it's important to:
 
 * Recognize the difference between reasonable certainty, based on evidence and logical reasoning, and blind certainty, which ignores evidence or alternative perspectives.
 * Be open to questioning our certainty when new information or viewpoints emerge, maintaining a willingness to revise our beliefs or opinions as needed.
