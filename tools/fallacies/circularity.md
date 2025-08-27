@@ -8,7 +8,11 @@ Circularity, also known as circular reasoning or begging the question, is a logi
 Circularity is considered a flawed form of reasoning because it doesn't offer any new information or justification for the claim being made.
 {% endhint %}
 
-For example, a circular argument might be: "This medicine is effective because it works." The claim that the medicine is effective is supported by the premise that it works, which is just a restatement of the claim. A better argument would provide independent evidence, such as clinical trial results or expert testimonials, to support the claim that the medicine is effective.
+### Example
+
+"This medicine is effective because it works."
+
+The claim that the medicine is effective is supported by the premise that it works, which is just a restatement of the claim. A better argument would provide independent evidence, such as clinical trial results or expert testimonials, to support the claim that the medicine is effective.
 
 ### How circularity affects us in everyday life&#x20;
 
